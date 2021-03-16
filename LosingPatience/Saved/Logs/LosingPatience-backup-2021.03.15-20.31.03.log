@@ -1,0 +1,1713 @@
+﻿Log file open, 03/15/21 20:12:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LosingPatience
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.088563
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.15-19.12.07:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.15-19.12.07:193][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.15-19.12.07:193][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.15-19.12.07:198][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.15-19.12.07:198][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.15-19.12.07:199][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.15-19.12.07:199][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.15-19.12.07:199][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.15-19.12.07:203][  0]LogHAL: Display: Platform has ~ 16 GB [17138921472 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.15-19.12.07:203][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.15-19.12.07:203][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.15-19.12.07:203][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.15-19.12.07:204][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.15-19.12.07:204][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.15-19.12.07:204][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.15-19.12.07:204][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Engine/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.15-19.12.07:204][  0]LogInit: Computer: MUSTAFA
+[2021.03.15-19.12.07:204][  0]LogInit: User: MustafaBolat
+[2021.03.15-19.12.07:204][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.15-19.12.07:204][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.15-19.12.07:204][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.03.15-19.12.07:204][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.15-19.12.07:204][  0]LogMemory: Process Physical Memory: 104.12 MB used, 104.12 MB peak
+[2021.03.15-19.12.07:204][  0]LogMemory: Process Virtual Memory: 102.09 MB used, 102.09 MB peak
+[2021.03.15-19.12.07:204][  0]LogMemory: Physical Memory: 7267.30 MB used,  9077.65 MB free, 16344.95 MB total
+[2021.03.15-19.12.07:204][  0]LogMemory: Virtual Memory: 4678.29 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2021.03.15-19.12.07:208][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.15-19.12.07:251][  0]LogInit: Using OS detected language (en-US).
+[2021.03.15-19.12.07:252][  0]LogInit: Using OS detected locale (en-NL).
+[2021.03.15-19.12.07:252][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.15-19.12.07:453][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.15-19.12.07:514][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.15-19.12.07:514][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.15-19.12.07:763][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.03.15-19.12.07:763][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.15-19.12.07:891][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2021.03.15-19.12.07:891][  0]LogD3D11RHI:       2988/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.15-19.12.07:893][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.15-19.12.07:893][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.15-19.12.07:893][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.15-19.12.07:901][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.15-19.12.07:901][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.15-19.12.07:901][  0]LogWindows: EnumDisplayDevices:
+[2021.03.15-19.12.07:901][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2021.03.15-19.12.07:901][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2021.03.15-19.12.07:902][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2021.03.15-19.12.07:902][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2021.03.15-19.12.07:902][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.15-19.12.07:902][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2021.03.15-19.12.07:902][  0]LogD3D11RHI:   Driver Version: 460.89 (internal:27.21.14.6089, unified:460.89)
+[2021.03.15-19.12.07:902][  0]LogD3D11RHI:      Driver Date: 12-11-2020
+[2021.03.15-19.12.07:902][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2021.03.15-19.12.08:013][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.15-19.12.08:060][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.15-19.12.08:457][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.03.15-19.12.08:465][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.03.15-19.12.08:473][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.03.15-19.12.08:482][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.03.15-19.12.08:491][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.03.15-19.12.08:499][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.03.15-19.12.08:507][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.15-19.12.08:516][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.03.15-19.12.08:521][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.15-19.12.08:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.03.15-19.12.08:559][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.03.15-19.12.08:559][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.03.15-19.12.08:560][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.03.15-19.12.08:577][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.03.15-19.12.08:577][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.03.15-19.12.08:592][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.03.15-19.12.08:592][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.03.15-19.12.08:599][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.03.15-19.12.08:606][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.15-19.12.08:614][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.03.15-19.12.08:622][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.03.15-19.12.08:646][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.03.15-19.12.08:646][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.03.15-19.12.08:646][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.15-19.12.08:654][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.15-19.12.08:695][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../Unreal Engine/LosingPatience/Intermediate/Shaders/WorkingDirectory/4344/).
+[2021.03.15-19.12.08:695][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mustafa Bolat/AppData/Local/Temp/UnrealShaderWorkingDir/6AAF1CC54B2CC8C0EDE8858B8DD942E1/'.
+[2021.03.15-19.12.08:697][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.15-19.12.08:697][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.15-19.12.08:697][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.15-19.12.09:404][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.15-19.12.09:471][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/Mustafa Bolat/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.03.15-19.12.09:471][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mustafa Bolat/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2021.03.15-19.12.09:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal Engine/LosingPatience/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.15-19.12.09:471][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.15-19.12.09:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal Engine/LosingPatience/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.15-19.12.09:471][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.15-19.12.09:483][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.15-19.12.09:483][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.15-19.12.09:483][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.15-19.12.09:485][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mustafa Bolat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.15-19.12.09:485][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.15-19.12.09:485][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.15-19.12.09:509][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.03.15-19.12.09:512][  0]LogSlate: Using FreeType 2.6.0
+[2021.03.15-19.12.09:512][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.15-19.12.09:574][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2021.03.15-19.12.09:879][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.15-19.12.10:040][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.15-19.12.10:040][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.15-19.12.10:040][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.15-19.12.10:040][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.15-19.12.10:040][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.15-19.12.10:051][  0]LogNetVersion: LosingPatience 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1258438288)
+[2021.03.15-19.12.10:517][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.063340 seconds
+[2021.03.15-19.12.10:525][  0]LogUObjectArray: 43445 objects as part of root set at end of initial load.
+[2021.03.15-19.12.10:525][  0]LogUObjectAllocator: 7548872 out of 0 bytes used by permanent object pool.
+[2021.03.15-19.12.10:525][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.15-19.12.11:422][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.15-19.12.11:465][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.15-19.12.11:521][  0]SourceControl: Source control is disabled
+[2021.03.15-19.12.11:521][  0]SourceControl: Source control is disabled
+[2021.03.15-19.12.11:522][  0]SourceControl: Source control is disabled
+[2021.03.15-19.12.11:523][  0]SourceControl: Source control is disabled
+[2021.03.15-19.12.11:626][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.15-19.12.11:807][  0]LogOcInput: OculusInput pre-init called
+[2021.03.15-19.12.12:513][  0]LogEngine: Initializing Engine...
+[2021.03.15-19.12.12:580][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.03.15-19.12.12:581][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.15-19.12.12:828][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.15-19.12.12:839][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.15-19.12.12:893][  0]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-19.12.12:915][  0]LogInit: FAudioDevice initialized.
+[2021.03.15-19.12.12:916][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.15-19.12.12:989][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/Mustafa Bolat/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.03.15-19.12.12:999][  0]LogInit: Texture streaming: Enabled
+[2021.03.15-19.12.13:014][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.15-19.12.13:014][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.15-19.12.13:015][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.15-19.12.13:041][  0]LogInit: Transaction tracking system initialized
+[2021.03.15-19.12.13:064][  0]BlueprintLog: New page: Editor Load
+[2021.03.15-19.12.13:547][  0]LocalizationService: Localization service is disabled
+[2021.03.15-19.12.14:225][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Engine/LosingPatience/Content/' took 0.00s
+[2021.03.15-19.12.14:225][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.15-19.12.14:225][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.15-19.12.14:403][  0]SourceControl: Source control is disabled
+[2021.03.15-19.12.14:403][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.15-19.12.14:403][  0]LightingResults: New page: Lighting Build
+[2021.03.15-19.12.14:405][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-19.12.14:405][  0]MapCheck: New page: Map Check
+[2021.03.15-19.12.14:405][  0]LightingResults: New page: Lighting Build
+[2021.03.15-19.12.14:432][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.03.15-19.12.14:513][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.03.15-19.12.14:519][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.15-19.12.14:540][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.03.15-19.12.14:540][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.15-19.12.14:541][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2021.03.15-19.12.14:541][  0]LogFileHelpers: Loading map 'Template_Default' took 0.138
+[2021.03.15-19.12.19:084][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.12.19:256][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.12.19:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.12.19:271][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.12.19:967][  0]LogCollectionManager: Loaded 0 collections in 0.001023 seconds
+[2021.03.15-19.12.21:010][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Engine/LosingPatience/Saved/Collections/' took 0.00s
+[2021.03.15-19.12.21:011][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Engine/LosingPatience/Content/Developers/MustafaBolat/Collections/' took 0.00s
+[2021.03.15-19.12.21:011][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Engine/LosingPatience/Content/Collections/' took 0.00s
+[2021.03.15-19.12.21:011][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2021.03.15-19.12.21:211][  0]LogContentBrowser: Native class hierarchy populated in 0.0252 seconds. Added 2863 classes and 680 folders.
+[2021.03.15-19.12.21:849][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.15-19.12.26:592][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.15-19.12.26:907][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.03.15-19.12.33:178][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.15-19.12.33:179][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.15-19.12.33:575][  0]LogSlate: Took 0.077454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.15-19.12.35:500][  0]LogRenderer: Reallocating scene render targets to support 1068x620 Format 10 NumSamples 1 (Frame:1).
+[2021.03.15-19.12.38:525][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.15-19.12.38:525][  0]LogLoad: (Engine Initialization) Total time: 32.78 seconds
+[2021.03.15-19.12.38:525][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.15-19.12.38:786][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.03.15-19.12.47:187][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.15-19.13.05:205][861]LogAssetRegistry: Asset discovery search completed in 55.6323 seconds
+[2021.03.15-19.13.05:211][861]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2021.03.15-19.13.05:211][861]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2021.03.15-19.13.10:480][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.15-19.13.12:799][644]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.15-19.13.38:608][624]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C28F1278-4CB5-E4F8-AD28-21BBB5494961}
+[2021.03.15-19.16.04:425][819]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.15-19.16.04:434][819]LogAssetEditorManager: Opening Asset editor for World /Game/MM_map.MM_map
+[2021.03.15-19.16.04:530][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.03.15-19.16.06:137][819]LogSlate: Window 'Save Content' being destroyed
+[2021.03.15-19.16.06:191][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM_map" FILE="../../../../Unreal Engine/LosingPatience/Content/MM_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.15-19.16.06:236][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.15-19.16.06:612][819]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/MM_map0E748BA540AF9D3F032A178BB9AC507E.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM_map.umap'
+[2021.03.15-19.16.06:647][819]LogFileHelpers: Saving map 'MM_map' took 0.465
+[2021.03.15-19.16.06:664][819]Cmd: MAP LOAD FILE="../../../../Unreal Engine/LosingPatience/Content/MM_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.15-19.16.06:664][819]LightingResults: New page: Lighting Build
+[2021.03.15-19.16.06:665][819]LoadErrors: New page: Loading map: MM_map.umap
+[2021.03.15-19.16.06:665][819]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-19.16.06:682][819]MapCheck: New page: Map Check
+[2021.03.15-19.16.06:682][819]LightingResults: New page: Lighting Build
+[2021.03.15-19.16.06:709][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.03.15-19.16.06:878][819]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.15-19.16.06:879][819]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-19.16.06:914][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.03.15-19.16.06:957][819]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.15-19.16.06:957][819]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2021.03.15-19.16.06:959][819]LogFileHelpers: Loading map 'MM_map' took 0.310
+[2021.03.15-19.16.14:059][187]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.03.15-19.16.35:235][437]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.15-19.16.35:239][437]LogSlate: Window 'Project Settings' being destroyed
+[2021.03.15-19.16.38:211][759]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.16.38:265][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-19.16.38:294][759]PIE: New page: PIE session: MM_map (Mar 15, 2021, 9:16:38 PM)
+[2021.03.15-19.16.38:330][759]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.15-19.16.38:440][759]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MM_map
+[2021.03.15-19.16.38:463][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022778s)
+[2021.03.15-19.16.38:472][759]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-19.16.38:496][759]LogPlayLevel: PIE: World Init took: (0.033478s)
+[2021.03.15-19.16.38:496][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM_map.MM_map to /Game/UEDPIE_0_MM_map.MM_map (0.056564s)
+[2021.03.15-19.16.38:521][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.03.15-19.16.38:621][759]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-19.16.38:641][759]LogInit: FAudioDevice initialized.
+[2021.03.15-19.16.38:686][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.16.38:688][759]LogLoad: Game class is 'GameModeBase'
+[2021.03.15-19.16.38:824][759]LogWorld: Bringing World /Game/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-20.16.38
+[2021.03.15-19.16.38:841][759]LogWorld: Bringing up level for play took: 0.017560
+[2021.03.15-19.16.38:848][759]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.03.15-19.16.39:099][759]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.03.15-19.16.39:330][759]PIE: Play in editor start time for /Game/UEDPIE_0_MM_map 1.679
+[2021.03.15-19.16.39:331][759]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.16.39:628][760]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.03.15-19.16.40:930][901]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-19.16.40:952][901]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.16.40:969][901]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MM_map
+[2021.03.15-19.16.40:969][901]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-19.16.41:011][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-19.16.41:012][901]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.16.41:073][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.03.15-19.16.41:084][902]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.03.15-19.17.04:677][ 49]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.15-19.18.14:990][284]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.15-19.18.46:885][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.03.15-19.18.46:900][929]LogMetaData: Removing '/Game/MM/MM_map.SKEL_MM_map_C' ref from Metadata '/Game/MM_map.PackageMetaData'
+[2021.03.15-19.18.46:900][929]LogMetaData: Removing '/Game/MM/MM_map.MM_map_C' ref from Metadata '/Game/MM_map.PackageMetaData'
+[2021.03.15-19.18.46:900][929]LogMetaData: Removing '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map.EventGraph.K2Node_Event_0' ref from Metadata '/Game/MM_map.PackageMetaData'
+[2021.03.15-19.18.46:900][929]LogMetaData: Removing '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map.EventGraph.K2Node_Event_1' ref from Metadata '/Game/MM_map.PackageMetaData'
+[2021.03.15-19.18.46:985][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_map" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/MM_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.15-19.18.47:009][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.03.15-19.18.47:097][929]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/MM_mapD9B72E7542D59B7754F6659142DA6E49.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/MM_map.umap'
+[2021.03.15-19.18.47:124][929]LogFileHelpers: Saving map 'MM_map' took 0.139
+[2021.03.15-19.18.47:253][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.03.15-19.18.47:280][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.03.15-19.18.47:303][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.15-19.19.28:696][765]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.15-19.20.04:266][567]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.15-19.20.26:768][108]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/myGamemode.myGamemode
+[2021.03.15-19.20.27:629][108]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2021.03.15-19.20.31:774][281]LogSlate: Window 'myGamemode' being destroyed
+[2021.03.15-19.20.34:194][529]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.15-19.20.51:144][452]BlueprintLog: New page: Compile myGamemode
+[2021.03.15-19.20.51:402][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.03.15-19.21.00:777][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.15-19.21.04:911][977]LogMetaData: Removing '/Game/MM/myPawn.myPawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/myPawn.PackageMetaData'
+[2021.03.15-19.21.04:911][977]LogMetaData: Removing '/Game/MM/myPawn.SKEL_myPawn_C:DefaultSceneRoot' ref from Metadata '/Game/myPawn.PackageMetaData'
+[2021.03.15-19.21.04:911][977]LogMetaData: Removing '/Game/MM/myPawn.SKEL_myPawn_C:UserConstructionScript' ref from Metadata '/Game/myPawn.PackageMetaData'
+[2021.03.15-19.21.04:911][977]LogMetaData: Removing '/Game/MM/myPawn.SKEL_myPawn_C' ref from Metadata '/Game/myPawn.PackageMetaData'
+[2021.03.15-19.21.04:911][977]LogMetaData: Removing '/Game/MM/myPawn.myPawn_C:DefaultSceneRoot' ref from Metadata '/Game/myPawn.PackageMetaData'
+[2021.03.15-19.21.04:911][977]LogMetaData: Removing '/Game/MM/myPawn.myPawn_C' ref from Metadata '/Game/myPawn.PackageMetaData'
+[2021.03.15-19.21.04:912][977]LogMetaData: Removing '/Game/MM/myPawn.myPawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/myPawn.PackageMetaData'
+[2021.03.15-19.21.04:912][977]LogMetaData: Removing '/Game/MM/myPawn.myPawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/myPawn.PackageMetaData'
+[2021.03.15-19.21.04:912][977]LogMetaData: Removing '/Game/MM/myPawn.myPawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/myPawn.PackageMetaData'
+[2021.03.15-19.21.04:933][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/myPawn" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/myPawn.uasset" SILENT=true
+[2021.03.15-19.21.04:946][977]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/myPawn1850C359470EA453931C2A98C8D9B8C0.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/myPawn.uasset'
+[2021.03.15-19.21.05:115][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.03.15-19.21.05:155][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.03.15-19.21.05:193][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.03.15-19.21.43:320][681]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.15-19.21.43:337][682]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={27E0A6C1-4969-61FD-DDDC-3A90D8F301D0}
+[2021.03.15-19.22.27:790][865]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-19.22.27:815][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.22.27:815][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-19.22.27:815][865]PIE: New page: PIE session: MM_map (Mar 15, 2021, 9:22:27 PM)
+[2021.03.15-19.22.27:816][865]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.22.27:817][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001184s)
+[2021.03.15-19.22.27:818][865]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-19.22.27:818][865]LogPlayLevel: PIE: World Init took: (0.001168s)
+[2021.03.15-19.22.27:818][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002574s)
+[2021.03.15-19.22.27:857][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.03.15-19.22.28:181][865]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-19.22.28:201][865]LogInit: FAudioDevice initialized.
+[2021.03.15-19.22.28:211][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.22.28:212][865]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-19.22.28:213][865]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-20.22.28
+[2021.03.15-19.22.28:280][865]LogWorld: Bringing up level for play took: 0.068012
+[2021.03.15-19.22.28:281][865]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.03.15-19.22.28:285][865]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 0.633
+[2021.03.15-19.22.28:285][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.22.30:487][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.22.30:497][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.22.30:497][104]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.22.30:509][104]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-19.22.30:514][104]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-19.22.30:521][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-19.22.30:522][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.22.30:566][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.03.15-19.22.30:584][105]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.03.15-19.22.38:351][  0]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MM/myPawn.myPawn
+[2021.03.15-19.22.39:772][109]LogSlate: Took 0.072787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.15-19.23.25:599][443]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.15-19.23.29:668][891]LogSlate: Took 0.038046 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.15-19.23.32:290][205]BlueprintLog: New page: Compile myPawn
+[2021.03.15-19.23.32:488][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.03.15-19.24.09:072][485]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MM/MM_widget.MM_widget
+[2021.03.15-19.24.49:134][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.03.15-19.24.49:163][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_map" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/MM_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.15-19.24.49:207][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.03.15-19.24.49:434][515]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/MM_mapB6318E6B42EA02D8C5613886186CFBA2.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/MM_map.umap'
+[2021.03.15-19.24.49:457][515]LogFileHelpers: Saving map 'MM_map' took 0.310
+[2021.03.15-19.24.49:460][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/gameMap" FILE="../../../../Unreal Engine/LosingPatience/Content/gamePlay/gameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.15-19.24.49:503][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.03.15-19.24.49:515][515]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/gameMapB1215F4046A8A184074FE380FD811B95.tmp' to '../../../../Unreal Engine/LosingPatience/Content/gamePlay/gameMap.umap'
+[2021.03.15-19.24.49:517][515]LogFileHelpers: Saving map 'gameMap' took 0.057
+[2021.03.15-19.24.49:524][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myGamemode" FILE="../../../../Unreal Engine/LosingPatience/Content/myGamemode.uasset" SILENT=true
+[2021.03.15-19.24.49:536][515]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/myGamemode3A40520B4B63DBB43F3B209F522EF847.tmp' to '../../../../Unreal Engine/LosingPatience/Content/myGamemode.uasset'
+[2021.03.15-19.24.49:540][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/myPawn" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/myPawn.uasset" SILENT=true
+[2021.03.15-19.24.49:570][515]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/myPawn57A8BA794B4A26CD8917C4851BA0C838.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/myPawn.uasset'
+[2021.03.15-19.24.49:576][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myPlayerController" FILE="../../../../Unreal Engine/LosingPatience/Content/myPlayerController.uasset" SILENT=true
+[2021.03.15-19.24.49:587][515]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/myPlayerControllerECC4321E4CBF37C7EA003C93A1962A1F.tmp' to '../../../../Unreal Engine/LosingPatience/Content/myPlayerController.uasset'
+[2021.03.15-19.24.49:592][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_widget" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/MM_widget.uasset" SILENT=true
+[2021.03.15-19.24.49:603][515]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/MM_widgetD64301004B909540D5A7D7B9769249C8.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/MM_widget.uasset'
+[2021.03.15-19.24.50:615][626]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-19.24.50:750][626]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.03.15-19.24.52:915][878]BlueprintLog: New page: Compile myPawn
+[2021.03.15-19.24.53:155][878]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2021.03.15-19.24.58:799][540]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-19.25.30:672][129]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-19.25.30:756][129]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.03.15-19.25.31:642][224]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-19.25.31:675][224]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.25.31:675][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-19.25.31:675][224]PIE: New page: PIE session: MM_map (Mar 15, 2021, 9:25:31 PM)
+[2021.03.15-19.25.31:675][224]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.25.31:676][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001011s)
+[2021.03.15-19.25.31:677][224]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-19.25.31:678][224]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2021.03.15-19.25.31:678][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002296s)
+[2021.03.15-19.25.31:720][224]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.03.15-19.25.31:759][224]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-19.25.31:777][224]LogInit: FAudioDevice initialized.
+[2021.03.15-19.25.31:787][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.25.31:788][224]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-19.25.31:788][224]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-20.25.31
+[2021.03.15-19.25.31:789][224]LogWorld: Bringing up level for play took: 0.000495
+[2021.03.15-19.25.31:789][224]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.03.15-19.25.31:790][224]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-19.25.31:915][224]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 0.264
+[2021.03.15-19.25.31:916][224]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.25.33:040][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.25.33:040][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.25.33:040][341]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.25.33:053][341]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-19.25.33:058][341]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-19.25.33:069][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-19.25.33:069][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.25.33:121][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.03.15-19.25.33:142][343]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.03.15-19.28.45:753][410]BlueprintLog: New page: Compile myPawn
+[2021.03.15-19.28.46:024][410]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.03.15-19.28.46:491][463]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-19.28.46:510][463]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.28.46:510][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-19.28.46:511][463]PIE: New page: PIE session: MM_map (Mar 15, 2021, 9:28:46 PM)
+[2021.03.15-19.28.46:511][463]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.28.46:512][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000950s)
+[2021.03.15-19.28.46:513][463]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-19.28.46:513][463]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2021.03.15-19.28.46:513][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002267s)
+[2021.03.15-19.28.46:557][463]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2021.03.15-19.28.46:596][463]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-19.28.46:615][463]LogInit: FAudioDevice initialized.
+[2021.03.15-19.28.46:626][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.28.46:627][463]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-19.28.46:628][463]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-20.28.46
+[2021.03.15-19.28.46:628][463]LogWorld: Bringing up level for play took: 0.000504
+[2021.03.15-19.28.46:628][463]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.03.15-19.28.46:630][463]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-19.28.46:643][463]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 0.991
+[2021.03.15-19.28.46:643][463]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.28.50:907][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.15-19.28.51:021][970]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-19.28.51:027][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.28.51:027][970]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.28.51:027][970]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-19.28.51:036][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-19.28.51:036][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.28.51:091][970]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.03.15-19.28.51:110][971]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.03.15-19.28.53:242][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.03.15-19.28.53:258][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_map" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/MM_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.15-19.28.53:302][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.03.15-19.28.53:515][219]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/MM_mapE35BFC1C4F30ECD15F136DB7C3C4B6CF.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/MM_map.umap'
+[2021.03.15-19.28.53:542][219]LogFileHelpers: Saving map 'MM_map' took 0.284
+[2021.03.15-19.28.53:544][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/myPawn" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/myPawn.uasset" SILENT=true
+[2021.03.15-19.28.53:690][219]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/myPawnDD613BEB4CDD75ED03CDBF8855031B4C.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/myPawn.uasset'
+[2021.03.15-19.28.53:695][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_widget" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/MM_widget.uasset" SILENT=true
+[2021.03.15-19.28.53:711][219]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/MM_widgetB07F5221454BD4DB1652B88B5806FFEF.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/MM_widget.uasset'
+[2021.03.15-19.39.43:776][610]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={48B2E901-4D7D-021B-9F2A-8B96E20C65C6}
+[2021.03.15-19.44.11:778][599]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.15-19.44.17:327][258]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-19.44.17:379][258]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.03.15-19.44.19:387][493]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-19.44.19:420][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.44.19:420][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-19.44.19:420][493]PIE: New page: PIE session: MM_map (Mar 15, 2021, 9:44:19 PM)
+[2021.03.15-19.44.19:420][493]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.44.19:421][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000852s)
+[2021.03.15-19.44.19:422][493]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-19.44.19:422][493]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2021.03.15-19.44.19:422][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002238s)
+[2021.03.15-19.44.19:460][493]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.03.15-19.44.19:493][493]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-19.44.19:512][493]LogInit: FAudioDevice initialized.
+[2021.03.15-19.44.19:520][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.44.19:520][493]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-19.44.19:521][493]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-20.44.19
+[2021.03.15-19.44.19:521][493]LogWorld: Bringing up level for play took: 0.000578
+[2021.03.15-19.44.19:522][493]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.03.15-19.44.19:523][493]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-19.44.19:526][493]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map -0.126
+[2021.03.15-19.44.19:526][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.44.21:396][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.15-19.44.21:482][724]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-19.44.21:487][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.44.21:487][724]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.44.21:487][724]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-19.44.21:498][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-19.44.21:498][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.44.21:561][724]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2021.03.15-19.44.21:580][725]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.03.15-19.45.24:840][153]LogSlate: Took 0.080971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.15-19.51.09:629][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.03.15-19.51.09:630][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_map" FILE="../../../../Unreal Engine/LosingPatience/Saved/Autosaves/Game/MM/MM_map_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.03.15-19.51.10:111][ 28]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/MM_map_Auto1F134FAD64D4F68314251A4B240F9FE8E.tmp' to '../../../../Unreal Engine/LosingPatience/Saved/Autosaves/Game/MM/MM_map_Auto1.umap'
+[2021.03.15-19.51.10:114][ 28]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MM/MM_map' took 0.528
+[2021.03.15-19.51.10:114][ 28]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.528
+[2021.03.15-19.51.10:115][ 28]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MM/MM_widget] ([1] browsable assets)...
+[2021.03.15-19.51.10:115][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/MM/MM_widget]
+[2021.03.15-19.51.10:115][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_widget" FILE="../../../../Unreal Engine/LosingPatience/Saved/Autosaves/Game/MM/MM_widget_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.03.15-19.51.10:178][ 28]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/MM_widget_Auto19657A59A4ACE0FB9524F28AA938C9AAE.tmp' to '../../../../Unreal Engine/LosingPatience/Saved/Autosaves/Game/MM/MM_widget_Auto1.uasset'
+[2021.03.15-19.51.10:178][ 28]LogFileHelpers: Auto-saving content packages took 0.064
+[2021.03.15-19.51.49:751][702]LogEditorTransaction: Undo Paste clipboard contents
+[2021.03.15-19.51.50:206][707]LogEditorTransaction: Undo Paste clipboard contents
+[2021.03.15-19.52.07:274][724]LogUObjectHash: Warning: Ambiguous search, could be SizeBox /Engine/UMG/Editor/Transient.SizeBox_1 or SizeBox /Engine/UMG/Editor/Transient.SizeBox_1
+[2021.03.15-19.52.07:274][724]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_4 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_4
+[2021.03.15-19.52.07:274][724]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_4 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_4
+[2021.03.15-19.53.18:469][100]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-19.53.18:516][100]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2021.03.15-19.54.08:727][968]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-19.54.08:776][968]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.03.15-19.54.23:268][616]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-19.54.23:319][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.03.15-19.54.51:687][  5]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-19.54.51:734][  5]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.03.15-19.54.52:735][123]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-19.54.52:751][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.54.52:751][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-19.54.52:751][123]PIE: New page: PIE session: MM_map (Mar 15, 2021, 9:54:52 PM)
+[2021.03.15-19.54.52:751][123]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.54.52:752][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000928s)
+[2021.03.15-19.54.52:753][123]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-19.54.52:753][123]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2021.03.15-19.54.52:753][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002034s)
+[2021.03.15-19.54.52:803][123]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.03.15-19.54.52:837][123]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-19.54.52:855][123]LogInit: FAudioDevice initialized.
+[2021.03.15-19.54.52:865][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.54.52:865][123]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-19.54.52:866][123]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-20.54.52
+[2021.03.15-19.54.52:866][123]LogWorld: Bringing up level for play took: 0.000513
+[2021.03.15-19.54.52:866][123]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.03.15-19.54.52:868][123]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-19.54.52:871][123]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map -0.78
+[2021.03.15-19.54.52:871][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.54.54:060][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.54.54:060][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.54.54:060][252]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.54.54:072][252]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-19.54.54:077][252]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-19.54.54:089][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-19.54.54:089][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.54.54:145][252]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.03.15-19.54.54:157][253]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.03.15-19.55.11:746][317]BlueprintLog: New page: Compile myPawn
+[2021.03.15-19.55.11:999][317]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.03.15-19.56.33:273][981]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-19.56.33:319][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.03.15-19.57.01:926][293]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-19.57.01:973][293]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.03.15-19.57.18:519][217]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-19.57.18:571][217]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.03.15-19.57.20:804][478]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-19.57.20:837][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.57.20:837][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-19.57.20:837][478]PIE: New page: PIE session: MM_map (Mar 15, 2021, 9:57:20 PM)
+[2021.03.15-19.57.20:837][478]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.57.20:838][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000858s)
+[2021.03.15-19.57.20:839][478]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-19.57.20:839][478]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2021.03.15-19.57.20:839][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.001951s)
+[2021.03.15-19.57.20:893][478]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.03.15-19.57.20:930][478]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-19.57.20:950][478]LogInit: FAudioDevice initialized.
+[2021.03.15-19.57.20:960][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.57.20:960][478]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-19.57.20:961][478]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-20.57.20
+[2021.03.15-19.57.20:961][478]LogWorld: Bringing up level for play took: 0.000526
+[2021.03.15-19.57.20:961][478]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.03.15-19.57.20:963][478]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-19.57.20:966][478]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map -0.686
+[2021.03.15-19.57.20:966][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.57.22:144][597]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.22:879][684]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.23:103][710]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.23:295][733]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.23:488][756]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.23:689][780]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.23:965][813]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.24:445][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.57.24:446][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.57.24:446][870]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.57.24:457][870]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-19.57.24:464][870]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-19.57.24:475][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-19.57.24:475][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.57.24:535][870]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2021.03.15-19.57.24:549][871]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.03.15-19.57.29:779][497]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-19.57.29:824][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.03.15-19.57.30:537][580]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-19.57.30:553][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.57.30:553][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-19.57.30:554][580]PIE: New page: PIE session: MM_map (Mar 15, 2021, 9:57:30 PM)
+[2021.03.15-19.57.30:554][580]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.57.30:555][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000799s)
+[2021.03.15-19.57.30:555][580]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-19.57.30:556][580]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2021.03.15-19.57.30:556][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.001938s)
+[2021.03.15-19.57.30:601][580]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.03.15-19.57.30:637][580]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-19.57.30:655][580]LogInit: FAudioDevice initialized.
+[2021.03.15-19.57.30:663][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.57.30:664][580]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-19.57.30:665][580]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-20.57.30
+[2021.03.15-19.57.30:665][580]LogWorld: Bringing up level for play took: 0.000661
+[2021.03.15-19.57.30:665][580]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.03.15-19.57.30:667][580]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-19.57.30:670][580]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 1.018
+[2021.03.15-19.57.30:670][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.57.31:636][693]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.32:096][748]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.32:264][768]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.32:431][788]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.32:599][808]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.32:737][824]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.33:138][871]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.33:413][904]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.33:647][932]LogLevel: Warning: Failed to find streaming level object associated with 'gameMap'
+[2021.03.15-19.57.33:891][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.57.33:891][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.57.33:891][961]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.57.33:904][961]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-19.57.33:909][961]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-19.57.33:919][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-19.57.33:919][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.57.33:974][961]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.03.15-19.57.33:996][963]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.03.15-19.57.52:170][ 87]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-19.57.52:218][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.03.15-19.57.59:530][531]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-19.57.59:548][531]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.57.59:548][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-19.57.59:548][531]PIE: New page: PIE session: MM_map (Mar 15, 2021, 9:57:59 PM)
+[2021.03.15-19.57.59:548][531]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.57.59:549][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000803s)
+[2021.03.15-19.57.59:550][531]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-19.57.59:550][531]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2021.03.15-19.57.59:550][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002061s)
+[2021.03.15-19.57.59:593][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.03.15-19.57.59:627][531]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-19.57.59:643][531]LogInit: FAudioDevice initialized.
+[2021.03.15-19.57.59:652][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.57.59:653][531]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-19.57.59:654][531]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-20.57.59
+[2021.03.15-19.57.59:654][531]LogWorld: Bringing up level for play took: 0.000500
+[2021.03.15-19.57.59:654][531]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.03.15-19.57.59:656][531]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-19.57.59:658][531]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 0.007
+[2021.03.15-19.57.59:659][531]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.58.00:952][681]LogNet: Browse: /Game/gamePlay/gameMap
+[2021.03.15-19.58.00:960][681]LogLoad: LoadMap: /Game/gamePlay/gameMap
+[2021.03.15-19.58.00:960][681]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-19.58.00:995][681]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-19.58.01:036][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.03.15-19.58.01:053][681]LogPlayLevel: Creating play world package: /Game/gamePlay/UEDPIE_0_gameMap
+[2021.03.15-19.58.01:053][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000765s)
+[2021.03.15-19.58.01:054][681]LogAIModule: Creating AISystem for world gameMap
+[2021.03.15-19.58.01:054][681]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2021.03.15-19.58.01:054][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/gamePlay/gameMap.gameMap to /Game/gamePlay/UEDPIE_0_gameMap.gameMap (0.001907s)
+[2021.03.15-19.58.01:055][681]LogLoad: Game class is 'GameModeBase'
+[2021.03.15-19.58.01:055][681]LogWorld: Bringing World /Game/gamePlay/UEDPIE_0_gameMap.gameMap up for play (max tick rate 0) at 2021.03.15-20.58.01
+[2021.03.15-19.58.01:056][681]LogWorld: Bringing up level for play took: 0.000369
+[2021.03.15-19.58.01:056][681]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-19.58.01:070][681]LogLoad: Took 0.109931 seconds to LoadMap(/Game/gamePlay/UEDPIE_0_gameMap)
+[2021.03.15-19.58.03:890][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.58.03:891][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-19.58.03:891][  5]LogWorld: BeginTearingDown for /Game/gamePlay/UEDPIE_0_gameMap
+[2021.03.15-19.58.03:903][  5]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-19.58.03:910][  5]LogWorld: UWorld::CleanupWorld for gameMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-19.58.03:920][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-19.58.03:920][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-19.58.03:987][  5]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.03.15-19.58.04:006][  6]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.03.15-19.58.29:707][ 72]BlueprintLog: New page: Compile myPawn
+[2021.03.15-19.58.29:978][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.03.15-19.59.20:461][985]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.15-19.59.21:765][140]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-19.59.21:818][140]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.03.15-20.00.06:155][361]LogEditorTransaction: Undo Edit Size Rule
+[2021.03.15-20.00.06:583][401]Cmd: TRANSACTION UNDO
+[2021.03.15-20.00.06:583][401]LogEditorTransaction: Undo Edit Size Rule
+[2021.03.15-20.00.07:039][451]Cmd: TRANSACTION UNDO
+[2021.03.15-20.00.07:039][451]LogEditorTransaction: Undo Move Widget
+[2021.03.15-20.00.26:036][670]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.15-20.02.59:798][490]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.02.59:853][490]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.03.15-20.04.01:969][700]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.04.02:255][700]LogBlueprint: Error: [Compiler MM_widget] Spawn node  Create Widget  must have a class specified.
+[2021.03.15-20.04.02:303][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.03.15-20.04.19:874][678]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MM/howToPlay.howToPlay
+[2021.03.15-20.04.55:261][786]BlueprintLog: New page: Compile howToPlay
+[2021.03.15-20.04.55:861][786]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2021.03.15-20.06.22:160][868]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.15-20.06.26:977][438]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.06.27:027][438]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.03.15-20.06.30:074][797]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.06.30:110][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.06.30:110][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.06.30:110][797]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:06:30 PM)
+[2021.03.15-20.06.30:110][797]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.06.30:111][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000873s)
+[2021.03.15-20.06.30:112][797]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.06.30:113][797]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2021.03.15-20.06.30:113][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002253s)
+[2021.03.15-20.06.30:159][797]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.03.15-20.06.30:194][797]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.06.30:214][797]LogInit: FAudioDevice initialized.
+[2021.03.15-20.06.30:223][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.06.30:223][797]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.06.30:224][797]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.06.30
+[2021.03.15-20.06.30:225][797]LogWorld: Bringing up level for play took: 0.000525
+[2021.03.15-20.06.30:225][797]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.03.15-20.06.30:226][797]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.06.30:229][797]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 0.578
+[2021.03.15-20.06.30:230][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.06.35:042][353]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.06.35:048][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.06.35:048][353]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.06.35:048][353]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.06.35:058][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.06.35:058][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.06.35:118][353]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2021.03.15-20.06.35:158][354]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.03.15-20.06.38:050][681]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.06.38:103][681]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.03.15-20.06.39:478][833]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.06.39:514][833]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.06.39:514][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.06.39:514][833]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:06:39 PM)
+[2021.03.15-20.06.39:514][833]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.06.39:515][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000789s)
+[2021.03.15-20.06.39:516][833]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.06.39:516][833]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2021.03.15-20.06.39:516][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.001951s)
+[2021.03.15-20.06.39:560][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.03.15-20.06.39:593][833]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.06.39:609][833]LogInit: FAudioDevice initialized.
+[2021.03.15-20.06.39:618][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.06.39:618][833]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.06.39:619][833]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.06.39
+[2021.03.15-20.06.39:620][833]LogWorld: Bringing up level for play took: 0.000506
+[2021.03.15-20.06.39:620][833]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.03.15-20.06.39:621][833]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.06.39:625][833]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map -0.027
+[2021.03.15-20.06.39:625][833]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.06.44:060][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.15-20.06.44:147][303]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.06.44:152][303]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.06.44:153][303]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.06.44:153][303]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.06.44:162][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.06.44:162][303]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.06.44:224][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.03.15-20.06.44:260][304]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.03.15-20.07.06:180][854]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.07.06:242][854]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.03.15-20.07.07:257][968]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.07.07:297][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.07.07:297][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.07.07:297][968]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:07:07 PM)
+[2021.03.15-20.07.07:297][968]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.07.07:298][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001009s)
+[2021.03.15-20.07.07:299][968]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.07.07:299][968]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2021.03.15-20.07.07:299][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002233s)
+[2021.03.15-20.07.07:356][968]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.03.15-20.07.07:390][968]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.07.07:410][968]LogInit: FAudioDevice initialized.
+[2021.03.15-20.07.07:420][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.07.07:420][968]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.07.07:421][968]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.07.07
+[2021.03.15-20.07.07:422][968]LogWorld: Bringing up level for play took: 0.000625
+[2021.03.15-20.07.07:422][968]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.03.15-20.07.07:423][968]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.07.07:426][968]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map -0.225
+[2021.03.15-20.07.07:427][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.07.11:802][467]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.07.11:802][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.07.11:802][467]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.07.11:814][467]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.07.11:819][467]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.07.11:828][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.07.11:828][467]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.07.11:892][467]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2021.03.15-20.07.11:917][468]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.03.15-20.07.49:563][857]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.07.49:618][857]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.03.15-20.07.53:461][305]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.07.53:517][305]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.03.15-20.07.59:691][  5]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.07.59:761][  5]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.03.15-20.08.00:945][130]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.08.00:983][130]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.08.00:983][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.08.00:984][130]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:08:00 PM)
+[2021.03.15-20.08.00:984][130]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.08.00:985][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000940s)
+[2021.03.15-20.08.00:985][130]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.08.00:986][130]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2021.03.15-20.08.00:986][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002084s)
+[2021.03.15-20.08.01:034][130]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2021.03.15-20.08.01:071][130]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.08.01:089][130]LogInit: FAudioDevice initialized.
+[2021.03.15-20.08.01:098][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.08.01:098][130]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.08.01:099][130]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.08.01
+[2021.03.15-20.08.01:099][130]LogWorld: Bringing up level for play took: 0.000517
+[2021.03.15-20.08.01:099][130]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.03.15-20.08.01:101][130]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.08.01:105][130]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map -0.547
+[2021.03.15-20.08.01:105][130]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.08.04:974][540]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.08.04:975][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.08.04:975][540]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.08.04:987][540]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.08.04:991][540]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.08.05:005][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.08.05:005][540]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.08.05:060][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.03.15-20.08.05:076][541]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.03.15-20.08.52:165][ 71]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.08.52:207][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.08.52:207][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.08.52:207][ 71]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:08:52 PM)
+[2021.03.15-20.08.52:207][ 71]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.08.52:208][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000981s)
+[2021.03.15-20.08.52:209][ 71]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.08.52:209][ 71]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2021.03.15-20.08.52:209][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002111s)
+[2021.03.15-20.08.52:255][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.03.15-20.08.52:290][ 71]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.08.52:310][ 71]LogInit: FAudioDevice initialized.
+[2021.03.15-20.08.52:318][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.08.52:318][ 71]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.08.52:319][ 71]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.08.52
+[2021.03.15-20.08.52:320][ 71]LogWorld: Bringing up level for play took: 0.000541
+[2021.03.15-20.08.52:320][ 71]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.03.15-20.08.52:322][ 71]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.08.52:325][ 71]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 0.674
+[2021.03.15-20.08.52:326][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.08.54:797][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.15-20.08.54:909][339]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.08.54:912][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.08.54:912][339]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.08.54:913][339]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.08.54:922][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.08.54:922][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.08.54:978][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.03.15-20.08.55:012][340]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.03.15-20.09.26:483][994]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.09.26:551][994]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.03.15-20.09.31:302][537]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.09.31:339][537]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.09.31:339][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.09.31:339][537]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:09:31 PM)
+[2021.03.15-20.09.31:339][537]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.09.31:340][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000898s)
+[2021.03.15-20.09.31:341][537]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.09.31:341][537]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2021.03.15-20.09.31:341][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002191s)
+[2021.03.15-20.09.31:387][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.03.15-20.09.31:421][537]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.09.31:441][537]LogInit: FAudioDevice initialized.
+[2021.03.15-20.09.31:450][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.09.31:450][537]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.09.31:451][537]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.09.31
+[2021.03.15-20.09.31:451][537]LogWorld: Bringing up level for play took: 0.000474
+[2021.03.15-20.09.31:452][537]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.03.15-20.09.31:453][537]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.09.31:457][537]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map -0.195
+[2021.03.15-20.09.31:457][537]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.09.34:935][924]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.09.34:940][924]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.09.34:941][924]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.09.34:941][924]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.09.34:953][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.09.34:953][924]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.09.35:016][924]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.03.15-20.09.35:046][925]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.03.15-20.10.24:732][797]BlueprintLog: New page: Compile howToPlay
+[2021.03.15-20.10.25:011][797]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.03.15-20.10.41:242][698]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.10.41:298][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.03.15-20.10.42:213][795]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.10.42:251][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.10.42:251][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.10.42:251][795]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:10:42 PM)
+[2021.03.15-20.10.42:251][795]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.10.42:252][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000899s)
+[2021.03.15-20.10.42:253][795]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.10.42:253][795]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2021.03.15-20.10.42:253][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.001938s)
+[2021.03.15-20.10.42:301][795]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.03.15-20.10.42:333][795]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.10.42:350][795]LogInit: FAudioDevice initialized.
+[2021.03.15-20.10.42:359][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.10.42:359][795]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.10.42:360][795]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.10.42
+[2021.03.15-20.10.42:360][795]LogWorld: Bringing up level for play took: 0.000485
+[2021.03.15-20.10.42:361][795]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.03.15-20.10.42:362][795]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.10.42:366][795]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 0.714
+[2021.03.15-20.10.42:366][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.10.45:687][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.15-20.10.45:787][157]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.10.45:792][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.10.45:792][157]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.10.45:792][157]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.10.45:800][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.10.45:800][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.10.45:858][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.03.15-20.10.45:894][158]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.03.15-20.10.51:663][832]BlueprintLog: New page: Compile howToPlay
+[2021.03.15-20.10.51:957][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.03.15-20.11.10:125][936]LogEditorTransaction: Undo Edit Vertical Alignment
+[2021.03.15-20.11.10:304][950]Cmd: TRANSACTION UNDO
+[2021.03.15-20.11.10:304][950]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2021.03.15-20.11.10:673][980]Cmd: TRANSACTION UNDO
+[2021.03.15-20.11.10:673][980]LogEditorTransaction: Undo Add Widget
+[2021.03.15-20.11.11:093][ 28]Cmd: TRANSACTION UNDO
+[2021.03.15-20.11.11:093][ 28]LogEditorTransaction: Undo Remove Widget
+[2021.03.15-20.11.11:099][ 28]LogBlueprint: Error: [Compiler MM_widget] Internal Compiler Error: Tried to create a property howToPlay in scope SKEL_MM_widget_C, but another object (ObjectProperty howToPlay) already exists there.
+[2021.03.15-20.11.18:650][900]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.11.18:651][900]LogBlueprint: Error: [Compiler MM_widget] Internal Compiler Error: Tried to create a property howToPlay in scope SKEL_MM_widget_C, but another object (ObjectProperty howToPlay) already exists there.
+[2021.03.15-20.11.18:653][900]LogBlueprint: Error: [Compiler MM_widget] Internal Compiler Error: Tried to create a property howToPlay in scope MM_widget_C, but another object (ObjectProperty howToPlay) already exists there.
+[2021.03.15-20.11.18:706][900]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2021.03.15-20.11.19:244][952]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.11.19:266][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.11.19:266][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.11.19:266][952]BlueprintLog: Warning: Blueprint failed to compile:  MM_widget
+[2021.03.15-20.11.19:347][952]LogCustomDialog: Dialog displayed:
+[2021.03.15-20.11.20:875][952]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.03.15-20.11.23:996][299]LogSlate: Window 'Message Log' being destroyed
+[2021.03.15-20.11.24:001][299]LogSlate: Window 'Message Log' being destroyed
+[2021.03.15-20.12.07:737][430]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.12.07:801][430]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.03.15-20.12.11:747][886]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.12.11:783][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.12.11:783][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.12.11:784][886]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:12:11 PM)
+[2021.03.15-20.12.11:784][886]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.12.11:785][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000948s)
+[2021.03.15-20.12.11:786][886]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.12.11:786][886]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2021.03.15-20.12.11:786][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002229s)
+[2021.03.15-20.12.11:834][886]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.03.15-20.12.11:871][886]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.12.11:890][886]LogInit: FAudioDevice initialized.
+[2021.03.15-20.12.11:901][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.12.11:901][886]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.12.11:902][886]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.12.11
+[2021.03.15-20.12.11:902][886]LogWorld: Bringing up level for play took: 0.000740
+[2021.03.15-20.12.11:902][886]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.03.15-20.12.11:904][886]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.12.11:907][886]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 0.256
+[2021.03.15-20.12.11:908][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.12.16:103][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.15-20.12.16:233][373]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.12.16:237][373]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.12.16:237][373]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.12.16:237][373]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.12.16:250][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.12.16:250][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.12.16:322][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.03.15-20.12.16:354][374]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.03.15-20.12.30:872][ 84]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.15-20.12.44:893][751]BlueprintLog: New page: Compile howToPlay
+[2021.03.15-20.12.45:151][751]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.03.15-20.12.45:961][845]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.12.45:982][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.12.45:982][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.12.45:982][845]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:12:45 PM)
+[2021.03.15-20.12.45:982][845]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.12.45:983][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000955s)
+[2021.03.15-20.12.45:984][845]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.12.45:984][845]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2021.03.15-20.12.45:984][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.001997s)
+[2021.03.15-20.12.46:028][845]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.03.15-20.12.46:060][845]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.12.46:077][845]LogInit: FAudioDevice initialized.
+[2021.03.15-20.12.46:087][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.12.46:087][845]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.12.46:088][845]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.12.46
+[2021.03.15-20.12.46:088][845]LogWorld: Bringing up level for play took: 0.000474
+[2021.03.15-20.12.46:089][845]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.03.15-20.12.46:090][845]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.12.46:093][845]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 0.442
+[2021.03.15-20.12.46:094][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.12.57:248][169]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.12.57:249][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.12.57:249][169]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.12.57:262][169]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.12.57:268][169]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.12.57:280][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.12.57:280][169]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.12.57:343][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.03.15-20.12.57:353][170]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.03.15-20.13.08:472][473]Cmd: TRANSACTION UNDO
+[2021.03.15-20.13.08:472][473]LogEditorTransaction: Undo Edit Specified Color
+[2021.03.15-20.13.16:072][338]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.15-20.13.33:476][393]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.15-20.13.34:248][483]BlueprintLog: New page: Compile howToPlay
+[2021.03.15-20.13.34:522][483]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.03.15-20.13.34:779][504]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.13.34:802][504]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.13.34:802][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.13.34:802][504]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:13:34 PM)
+[2021.03.15-20.13.34:802][504]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.13.34:803][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000922s)
+[2021.03.15-20.13.34:804][504]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.13.34:805][504]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2021.03.15-20.13.34:805][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002235s)
+[2021.03.15-20.13.34:849][504]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.03.15-20.13.34:886][504]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.13.34:907][504]LogInit: FAudioDevice initialized.
+[2021.03.15-20.13.34:917][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.13.34:917][504]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.13.34:918][504]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.13.34
+[2021.03.15-20.13.34:919][504]LogWorld: Bringing up level for play took: 0.000564
+[2021.03.15-20.13.34:919][504]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.03.15-20.13.34:921][504]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.13.34:924][504]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map -0.727
+[2021.03.15-20.13.34:924][504]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.13.39:134][975]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.13.39:134][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.13.39:134][975]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.13.39:147][975]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.13.39:152][975]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.13.39:165][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.13.39:165][975]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.13.39:224][975]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.03.15-20.13.39:239][976]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.03.15-20.13.45:343][700]BlueprintLog: New page: Compile howToPlay
+[2021.03.15-20.13.45:624][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.03.15-20.14.52:585][938]BlueprintLog: New page: Compile howToPlay
+[2021.03.15-20.14.52:845][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.03.15-20.15.08:746][831]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.15.08:797][831]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.03.15-20.15.10:900][ 78]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.15.10:935][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.15.10:935][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.15.10:935][ 78]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:15:10 PM)
+[2021.03.15-20.15.10:935][ 78]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.15.10:936][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000891s)
+[2021.03.15-20.15.10:937][ 78]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.15.10:937][ 78]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2021.03.15-20.15.10:937][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.001966s)
+[2021.03.15-20.15.10:979][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.03.15-20.15.11:007][ 78]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.15.11:022][ 78]LogInit: FAudioDevice initialized.
+[2021.03.15-20.15.11:031][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.15.11:031][ 78]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.15.11:032][ 78]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.15.11
+[2021.03.15-20.15.11:032][ 78]LogWorld: Bringing up level for play took: 0.000577
+[2021.03.15-20.15.11:032][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.03.15-20.15.11:034][ 78]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.15.11:037][ 78]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map -0.615
+[2021.03.15-20.15.11:037][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.15.15:358][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.15-20.15.15:470][605]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.15.15:474][605]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.15.15:474][605]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.15.15:474][605]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.15.15:486][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.15.15:486][605]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.15.15:540][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.03.15-20.15.15:561][607]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.03.15-20.15.19:174][ 39]BlueprintLog: New page: Compile MM_widget
+[2021.03.15-20.15.19:227][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.03.15-20.15.23:004][481]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.03.15-20.15.23:018][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_map" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/MM_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.15-20.15.23:065][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.03.15-20.15.23:296][481]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/MM_map1BE77D1846077432A95C33A9ACA0EB5D.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/MM_map.umap'
+[2021.03.15-20.15.23:329][481]LogFileHelpers: Saving map 'MM_map' took 0.312
+[2021.03.15-20.15.23:332][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/myPawn" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/myPawn.uasset" SILENT=true
+[2021.03.15-20.15.23:351][481]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/myPawnCC5D96C14DE4D39EA7DC7BB2795686C7.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/myPawn.uasset'
+[2021.03.15-20.15.23:356][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_widget" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/MM_widget.uasset" SILENT=true
+[2021.03.15-20.15.23:380][481]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/MM_widget47E69417454ACBE24BCC158BFCF5EF00.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/MM_widget.uasset'
+[2021.03.15-20.15.23:385][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/howToPlay" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/howToPlay.uasset" SILENT=true
+[2021.03.15-20.15.23:398][481]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/howToPlayA313999347EE320DD7078BA10624CE0E.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/howToPlay.uasset'
+[2021.03.15-20.17.47:445][622]LogEditorTransaction: Undo Edit Top
+[2021.03.15-20.17.47:757][649]LogEditorTransaction: Undo Changed Anchors
+[2021.03.15-20.18.43:367][208]LogEditorTransaction: Undo Remove Widget
+[2021.03.15-20.18.43:625][237]LogEditorTransaction: Undo Add Widget
+[2021.03.15-20.18.44:279][312]LogEditorTransaction: Undo Edit Size Rule
+[2021.03.15-20.18.45:059][404]LogEditorTransaction: Undo Move Widget
+[2021.03.15-20.18.45:509][457]LogEditorTransaction: Undo Move Widget
+[2021.03.15-20.19.57:822][961]BlueprintLog: New page: Compile howToPlay
+[2021.03.15-20.19.58:112][961]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.03.15-20.22.49:402][137]Cmd: TRANSACTION UNDO
+[2021.03.15-20.22.49:402][137]LogEditorTransaction: Undo Edit Padding
+[2021.03.15-20.23.36:648][688]BlueprintLog: New page: Compile howToPlay
+[2021.03.15-20.23.36:930][688]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.03.15-20.23.37:708][777]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.23.37:746][777]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.23.37:746][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.23.37:746][777]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:23:37 PM)
+[2021.03.15-20.23.37:746][777]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.23.37:747][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000895s)
+[2021.03.15-20.23.37:748][777]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.23.37:748][777]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2021.03.15-20.23.37:748][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002069s)
+[2021.03.15-20.23.37:796][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.03.15-20.23.37:833][777]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.23.37:849][777]LogInit: FAudioDevice initialized.
+[2021.03.15-20.23.37:859][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.23.37:859][777]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.23.37:860][777]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.23.37
+[2021.03.15-20.23.37:861][777]LogWorld: Bringing up level for play took: 0.000536
+[2021.03.15-20.23.37:861][777]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.03.15-20.23.37:862][777]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.23.37:866][777]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 0.214
+[2021.03.15-20.23.37:866][777]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.23.50:446][900]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 10 NumSamples 1 (Frame:1124).
+[2021.03.15-20.23.55:030][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.15-20.23.55:129][377]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.23.55:168][377]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.23.55:168][377]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.23.55:168][377]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.23.55:180][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.23.55:180][377]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.23.55:258][377]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2021.03.15-20.23.55:457][378]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.03.15-20.24.29:868][213]BlueprintLog: New page: Compile howToPlay
+[2021.03.15-20.24.30:159][213]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.03.15-20.25.11:295][ 57]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.25.11:335][ 57]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.25.11:335][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.25.11:335][ 57]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:25:11 PM)
+[2021.03.15-20.25.11:335][ 57]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.25.11:336][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000868s)
+[2021.03.15-20.25.11:337][ 57]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.25.11:337][ 57]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2021.03.15-20.25.11:337][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.001934s)
+[2021.03.15-20.25.11:383][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.03.15-20.25.11:420][ 57]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.25.11:439][ 57]LogInit: FAudioDevice initialized.
+[2021.03.15-20.25.11:450][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.25.11:450][ 57]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.25.11:451][ 57]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.25.11
+[2021.03.15-20.25.11:451][ 57]LogWorld: Bringing up level for play took: 0.000579
+[2021.03.15-20.25.11:452][ 57]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.03.15-20.25.11:453][ 57]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.25.11:457][ 57]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map -0.194
+[2021.03.15-20.25.11:458][ 57]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.25.16:047][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.15-20.25.16:133][593]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.25.16:137][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.25.16:138][593]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.25.16:138][593]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.25.16:151][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.25.16:151][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.25.16:211][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.03.15-20.25.16:226][594]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.03.15-20.25.58:387][573]BlueprintLog: New page: Compile howToPlay
+[2021.03.15-20.25.58:749][573]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.03.15-20.26.04:251][215]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.26.04:272][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.26.04:272][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.26.04:273][215]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:26:04 PM)
+[2021.03.15-20.26.04:273][215]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.26.04:273][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000788s)
+[2021.03.15-20.26.04:274][215]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.26.04:275][215]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2021.03.15-20.26.04:275][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.001960s)
+[2021.03.15-20.26.04:319][215]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.03.15-20.26.04:354][215]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.26.04:370][215]LogInit: FAudioDevice initialized.
+[2021.03.15-20.26.04:380][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.26.04:380][215]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.26.04:382][215]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.26.04
+[2021.03.15-20.26.04:382][215]LogWorld: Bringing up level for play took: 0.000535
+[2021.03.15-20.26.04:382][215]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.03.15-20.26.04:383][215]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.26.04:387][215]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 0.736
+[2021.03.15-20.26.04:387][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.26.05:242][312]LogNet: Browse: /Game/gamePlay/gameMap
+[2021.03.15-20.26.05:242][312]LogLoad: LoadMap: /Game/gamePlay/gameMap
+[2021.03.15-20.26.05:242][312]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.26.05:243][312]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.26.05:291][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.03.15-20.26.05:291][312]LogPlayLevel: Creating play world package: /Game/gamePlay/UEDPIE_0_gameMap
+[2021.03.15-20.26.05:293][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001169s)
+[2021.03.15-20.26.05:294][312]LogAIModule: Creating AISystem for world gameMap
+[2021.03.15-20.26.05:294][312]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2021.03.15-20.26.05:294][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/gamePlay/gameMap.gameMap to /Game/gamePlay/UEDPIE_0_gameMap.gameMap (0.002471s)
+[2021.03.15-20.26.05:294][312]LogLoad: Game class is 'GameModeBase'
+[2021.03.15-20.26.05:295][312]LogWorld: Bringing World /Game/gamePlay/UEDPIE_0_gameMap.gameMap up for play (max tick rate 0) at 2021.03.15-21.26.05
+[2021.03.15-20.26.05:295][312]LogWorld: Bringing up level for play took: 0.000428
+[2021.03.15-20.26.05:296][312]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.26.05:297][312]LogLoad: Took 0.054232 seconds to LoadMap(/Game/gamePlay/UEDPIE_0_gameMap)
+[2021.03.15-20.26.06:736][478]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.26.06:740][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.26.06:740][478]LogWorld: BeginTearingDown for /Game/gamePlay/UEDPIE_0_gameMap
+[2021.03.15-20.26.06:740][478]LogWorld: UWorld::CleanupWorld for gameMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.26.06:751][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.26.06:751][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.26.06:807][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.03.15-20.26.06:829][480]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.03.15-20.26.15:850][526]LogAssetEditorManager: Opening Asset editor for World /Game/gamePlay/gameMap.gameMap
+[2021.03.15-20.26.15:892][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.03.15-20.26.17:005][526]LogSlate: Window 'Save Content' being destroyed
+[2021.03.15-20.26.17:013][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/howToPlay" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/howToPlay.uasset" SILENT=true
+[2021.03.15-20.26.17:091][526]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/howToPlayFE2AB1094A750E09662D7CAD4F364F0D.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/howToPlay.uasset'
+[2021.03.15-20.26.17:092][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MM/MM_widget" FILE="../../../../Unreal Engine/LosingPatience/Content/MM/MM_widget.uasset" SILENT=true
+[2021.03.15-20.26.17:122][526]LogSavePackage: Moving '../../../../Unreal Engine/LosingPatience/Saved/MM_widget1121E74848AB303E6924BE95FD6DB048.tmp' to '../../../../Unreal Engine/LosingPatience/Content/MM/MM_widget.uasset'
+[2021.03.15-20.26.17:128][526]Cmd: MAP LOAD FILE="../../../../Unreal Engine/LosingPatience/Content/gamePlay/gameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.15-20.26.17:128][526]LightingResults: New page: Lighting Build
+[2021.03.15-20.26.17:130][526]LoadErrors: New page: Loading map: gameMap.umap
+[2021.03.15-20.26.17:130][526]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.26.17:131][526]MapCheck: New page: Map Check
+[2021.03.15-20.26.17:131][526]LightingResults: New page: Lighting Build
+[2021.03.15-20.26.17:177][526]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.03.15-20.26.17:261][526]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.15-20.26.17:261][526]LogAIModule: Creating AISystem for world gameMap
+[2021.03.15-20.26.17:307][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.03.15-20.26.17:336][526]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.15-20.26.17:336][526]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2021.03.15-20.26.17:337][526]LogFileHelpers: Loading map 'gameMap' took 0.212
+[2021.03.15-20.26.33:847][462]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.26.33:851][462]LogAssetEditorManager: Opening Asset editor for World /Game/MM/MM_map.MM_map
+[2021.03.15-20.26.33:899][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.03.15-20.26.33:900][462]Cmd: MAP LOAD FILE="../../../../Unreal Engine/LosingPatience/Content/MM/MM_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.15-20.26.33:901][462]LightingResults: New page: Lighting Build
+[2021.03.15-20.26.33:901][462]LoadErrors: New page: Loading map: MM_map.umap
+[2021.03.15-20.26.33:901][462]LogWorld: UWorld::CleanupWorld for gameMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.26.33:902][462]MapCheck: New page: Map Check
+[2021.03.15-20.26.33:902][462]LightingResults: New page: Lighting Build
+[2021.03.15-20.26.33:953][462]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.03.15-20.26.34:033][462]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.15-20.26.34:082][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.03.15-20.26.34:108][462]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.15-20.26.34:108][462]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2021.03.15-20.26.34:108][462]LogFileHelpers: Loading map 'MM_map' took 0.209
+[2021.03.15-20.27.29:317][944]BlueprintLog: New page: Compile howToPlay
+[2021.03.15-20.27.29:571][944]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.03.15-20.27.30:120][  6]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.27.30:160][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.27.30:160][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.27.30:160][  6]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:27:30 PM)
+[2021.03.15-20.27.30:160][  6]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.27.30:161][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000844s)
+[2021.03.15-20.27.30:162][  6]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.27.30:162][  6]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2021.03.15-20.27.30:162][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002046s)
+[2021.03.15-20.27.30:208][  6]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.03.15-20.27.30:243][  6]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.27.30:261][  6]LogInit: FAudioDevice initialized.
+[2021.03.15-20.27.30:271][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.27.30:271][  6]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.27.30:272][  6]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.27.30
+[2021.03.15-20.27.30:272][  6]LogWorld: Bringing up level for play took: 0.000464
+[2021.03.15-20.27.30:272][  6]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.03.15-20.27.30:274][  6]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.27.30:277][  6]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 0.626
+[2021.03.15-20.27.30:278][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.27.38:178][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.15-20.27.38:286][954]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.27.38:290][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.27.38:290][954]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.27.38:290][954]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.27.38:303][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.27.38:303][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.27.38:358][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.03.15-20.27.38:371][955]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.03.15-20.29.05:928][802]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.15-20.29.05:966][802]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.29.05:966][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.15-20.29.05:966][802]PIE: New page: PIE session: MM_map (Mar 15, 2021, 10:29:05 PM)
+[2021.03.15-20.29.05:966][802]LogPlayLevel: Creating play world package: /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.29.05:967][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000966s)
+[2021.03.15-20.29.05:968][802]LogAIModule: Creating AISystem for world MM_map
+[2021.03.15-20.29.05:968][802]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2021.03.15-20.29.05:968][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MM/MM_map.MM_map to /Game/MM/UEDPIE_0_MM_map.MM_map (0.002124s)
+[2021.03.15-20.29.06:013][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.03.15-20.29.06:049][802]LogInit: XAudio2 using 'Speakers (Logitech G935/G933s Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2021.03.15-20.29.06:068][802]LogInit: FAudioDevice initialized.
+[2021.03.15-20.29.06:080][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.15-20.29.06:080][802]LogLoad: Game class is 'myGamemode_C'
+[2021.03.15-20.29.06:081][802]LogWorld: Bringing World /Game/MM/UEDPIE_0_MM_map.MM_map up for play (max tick rate 0) at 2021.03.15-21.29.06
+[2021.03.15-20.29.06:081][802]LogWorld: Bringing up level for play took: 0.000542
+[2021.03.15-20.29.06:081][802]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.03.15-20.29.06:083][802]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.15-20.29.06:087][802]PIE: Play in editor start time for /Game/MM/UEDPIE_0_MM_map 0.435
+[2021.03.15-20.29.06:087][802]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.29.15:216][864]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.15-20.29.15:220][864]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.29.15:221][864]LogWorld: BeginTearingDown for /Game/MM/UEDPIE_0_MM_map
+[2021.03.15-20.29.15:221][864]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.15-20.29.15:227][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.15-20.29.15:228][864]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MM/MM_map.MM_map:PersistentLevel' has LevelScriptBlueprint '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map' with GeneratedClass '/Game/MM/MM_map.MM_map_C' with ClassGeneratedBy '/Game/MM/MM_map.MM_map:PersistentLevel.MM_map'
+[2021.03.15-20.29.15:283][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.03.15-20.29.15:311][867]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.03.15-20.30.10:713][402]BlueprintLog: New page: Compile howToPlay
+[2021.03.15-20.30.11:077][402]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2021.03.15-20.31.03:597][402]LogWindows: Error: === Critical error: ===
+[2021.03.15-20.31.03:597][402]LogWindows: Error: 
+[2021.03.15-20.31.03:597][402]LogWindows: Error: Fatal error!
+[2021.03.15-20.31.03:597][402]LogWindows: Error: 
+[2021.03.15-20.31.03:597][402]LogWindows: Error: Unhandled Exception: EXCEPTION_STACK_OVERFLOW
+[2021.03.15-20.31.03:597][402]LogWindows: Error: 
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef78ec64b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef78ec606 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef78e19b4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f351 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:597][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: [Callstack] 0x00007ffef789f320 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.15-20.31.03:598][402]LogWindows: Error: 
+[2021.03.15-20.31.03:620][402]LogExit: Executing StaticShutdownAfterError
+[2021.03.15-20.31.03:655][402]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.03.15-20.31.03:728][402]Log file closed, 03/15/21 21:31:03
