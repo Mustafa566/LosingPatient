@@ -1,0 +1,861 @@
+﻿Log file open, 03/17/21 00:46:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LosingPatience
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.071440
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.16-23.46.47:620][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.16-23.46.47:620][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.16-23.46.47:620][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.16-23.46.47:620][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.16-23.46.47:621][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.16-23.46.47:621][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.16-23.46.47:621][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.16-23.46.47:625][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.16-23.46.47:625][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.16-23.46.47:626][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.16-23.46.47:626][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.16-23.46.47:626][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.16-23.46.47:629][  0]LogHAL: Display: Platform has ~ 16 GB [17106059264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.16-23.46.47:629][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.16-23.46.47:630][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.16-23.46.47:630][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.16-23.46.47:631][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.16-23.46.47:631][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.16-23.46.47:631][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Pixalone/test/LosingPatience/Saved/Config/Windows/Engine.ini]
+[2021.03.16-23.46.47:631][  0]LogInit: Computer: JOEYCOMPUTER
+[2021.03.16-23.46.47:631][  0]LogInit: User: joeym
+[2021.03.16-23.46.47:631][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.16-23.46.47:631][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.16-23.46.47:631][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.16-23.46.47:631][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.16-23.46.47:631][  0]LogMemory: Process Physical Memory: 100.93 MB used, 100.93 MB peak
+[2021.03.16-23.46.47:631][  0]LogMemory: Process Virtual Memory: 88.87 MB used, 88.87 MB peak
+[2021.03.16-23.46.47:631][  0]LogMemory: Physical Memory: 7907.46 MB used,  8406.15 MB free, 16313.61 MB total
+[2021.03.16-23.46.47:631][  0]LogMemory: Virtual Memory: 4656.58 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2021.03.16-23.46.47:634][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.16-23.46.47:676][  0]LogInit: Using OS detected language (nl-NL).
+[2021.03.16-23.46.47:676][  0]LogInit: Using OS detected locale (nl-NL).
+[2021.03.16-23.46.47:677][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2021.03.16-23.46.47:830][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.16-23.46.47:856][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.16-23.46.47:856][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.16-23.46.48:055][  0]LogHMD: Failed to initialize OpenVR with code 102
+[2021.03.16-23.46.48:055][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.16-23.46.48:120][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.03.16-23.46.48:120][  0]LogD3D11RHI:       8079/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.16-23.46.48:122][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.16-23.46.48:122][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.16-23.46.48:122][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.16-23.46.48:128][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.16-23.46.48:128][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.16-23.46.48:128][  0]LogWindows: EnumDisplayDevices:
+[2021.03.16-23.46.48:128][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2021.03.16-23.46.48:128][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.03.16-23.46.48:128][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.03.16-23.46.48:129][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.03.16-23.46.48:129][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.16-23.46.48:129][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.03.16-23.46.48:129][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.03.16-23.46.48:129][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.03.16-23.46.48:129][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.03.16-23.46.48:177][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.16-23.46.48:188][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.16-23.46.48:494][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.03.16-23.46.48:505][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.03.16-23.46.48:515][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.03.16-23.46.48:524][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.03.16-23.46.48:534][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.03.16-23.46.48:542][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.03.16-23.46.48:550][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.16-23.46.48:558][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.03.16-23.46.48:563][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.03.16-23.46.48:596][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.03.16-23.46.48:599][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.03.16-23.46.48:615][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.03.16-23.46.48:615][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.03.16-23.46.48:629][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.03.16-23.46.48:629][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.03.16-23.46.48:636][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.03.16-23.46.48:642][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.16-23.46.48:649][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.03.16-23.46.48:658][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.03.16-23.46.48:684][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.03.16-23.46.48:684][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.03.16-23.46.48:684][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.16-23.46.48:696][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.16-23.46.48:756][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../Pixalone/test/LosingPatience/Intermediate/Shaders/WorkingDirectory/4308/).
+[2021.03.16-23.46.48:757][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joeym/AppData/Local/Temp/UnrealShaderWorkingDir/328FBE9747563D53BC64B587020CCCD1/'.
+[2021.03.16-23.46.48:758][  0]LogXGEController: Cleaning working directory: C:/Users/joeym/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.03.16-23.46.48:759][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.16-23.46.48:759][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.16-23.46.48:759][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.16-23.46.49:291][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.16-23.46.49:339][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.03.16-23.46.49:339][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2021.03.16-23.46.49:339][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Pixalone/test/LosingPatience/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.16-23.46.49:339][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.16-23.46.49:339][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Pixalone/test/LosingPatience/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.16-23.46.49:339][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.16-23.46.49:348][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.16-23.46.49:349][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2021.03.16-23.46.49:350][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joeym/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.16-23.46.49:350][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.16-23.46.49:350][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.16-23.46.49:368][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.03.16-23.46.49:370][  0]LogSlate: Using FreeType 2.6.0
+[2021.03.16-23.46.49:371][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.16-23.46.49:424][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.03.16-23.46.49:771][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.16-23.46.49:994][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.16-23.46.49:994][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.16-23.46.49:994][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.16-23.46.49:994][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.16-23.46.49:994][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.16-23.46.50:007][  0]LogNetVersion: LosingPatience 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1258438288)
+[2021.03.16-23.46.50:436][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.051442 seconds
+[2021.03.16-23.46.50:443][  0]LogUObjectArray: 43445 objects as part of root set at end of initial load.
+[2021.03.16-23.46.50:444][  0]LogUObjectAllocator: 7548872 out of 0 bytes used by permanent object pool.
+[2021.03.16-23.46.50:444][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.16-23.46.51:389][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.16-23.46.51:392][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.16-23.46.51:456][  0]SourceControl: Source control is disabled
+[2021.03.16-23.46.51:457][  0]SourceControl: Source control is disabled
+[2021.03.16-23.46.51:459][  0]SourceControl: Source control is disabled
+[2021.03.16-23.46.51:460][  0]SourceControl: Source control is disabled
+[2021.03.16-23.46.51:581][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.16-23.46.51:770][  0]LogOcInput: OculusInput pre-init called
+[2021.03.16-23.46.51:779][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.16-23.46.51:779][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.16-23.46.51:837][  0]LogEngine: Initializing Engine...
+[2021.03.16-23.46.51:838][  0]LogHMD: Failed to initialize OpenVR with code 102
+[2021.03.16-23.46.51:839][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.16-23.46.52:045][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.16-23.46.52:062][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.16-23.46.52:111][  0]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.03.16-23.46.52:154][  0]LogInit: FAudioDevice initialized.
+[2021.03.16-23.46.52:154][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.16-23.46.52:205][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.03.16-23.46.52:214][  0]LogInit: Texture streaming: Enabled
+[2021.03.16-23.46.52:235][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.16-23.46.52:235][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.16-23.46.52:235][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.16-23.46.52:310][  0]LogInit: Transaction tracking system initialized
+[2021.03.16-23.46.52:340][  0]BlueprintLog: New page: Editor Load
+[2021.03.16-23.46.52:417][  0]LocalizationService: Localization service is disabled
+[2021.03.16-23.46.52:672][  0]LogFileCache: Scanning file cache for directory 'D:/Pixalone/test/LosingPatience/Content/' took 0.00s
+[2021.03.16-23.46.52:672][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.16-23.46.52:672][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.16-23.46.52:867][  0]SourceControl: Source control is disabled
+[2021.03.16-23.46.52:867][  0]Cmd: MAP LOAD FILE="../../../../../../Pixalone/test/LosingPatience/Content/MM/MM_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.16-23.46.52:921][  0]LightingResults: New page: Lighting Build
+[2021.03.16-23.46.52:923][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-23.46.52:923][  0]MapCheck: New page: Map Check
+[2021.03.16-23.46.52:923][  0]LightingResults: New page: Lighting Build
+[2021.03.16-23.46.52:945][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.03.16-23.46.53:883][  0]LogTexture: Display: Building textures: cross (AutoDXT, 512X512)
+[2021.03.16-23.46.53:963][  0]LogAIModule: Creating AISystem for world MM_map
+[2021.03.16-23.46.53:966][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.16-23.46.53:989][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.03.16-23.46.53:989][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.16-23.46.53:990][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,248ms to complete.
+[2021.03.16-23.46.53:990][  0]LogFileHelpers: Loading map 'MM_map' took 1.123
+[2021.03.16-23.46.54:083][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-23.46.54:090][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-23.46.54:097][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-23.46.54:103][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-23.46.54:109][  0]LogCollectionManager: Loaded 0 collections in 0.001128 seconds
+[2021.03.16-23.46.54:114][  0]LogFileCache: Scanning file cache for directory 'D:/Pixalone/test/LosingPatience/Saved/Collections/' took 0.00s
+[2021.03.16-23.46.54:114][  0]LogFileCache: Scanning file cache for directory 'D:/Pixalone/test/LosingPatience/Content/Developers/joeym/Collections/' took 0.00s
+[2021.03.16-23.46.54:114][  0]LogFileCache: Scanning file cache for directory 'D:/Pixalone/test/LosingPatience/Content/Collections/' took 0.00s
+[2021.03.16-23.46.54:114][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2021.03.16-23.46.54:121][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2863 classes and 680 folders.
+[2021.03.16-23.46.54:126][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.16-23.46.54:187][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.16-23.46.54:194][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.03.16-23.46.54:250][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2021.03.16-23.46.54:261][  0]LogSlate: Took 0.000661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.16-23.46.54:263][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.16-23.46.54:268][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.16-23.46.54:326][  0]LogRenderer: Reallocating scene render targets to support 1176x520 Format 10 NumSamples 1 (Frame:1).
+[2021.03.16-23.46.54:362][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.16-23.46.54:407][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.16-23.46.54:407][  0]LogLoad: (Engine Initialization) Total time: 8.46 seconds
+[2021.03.16-23.46.54:407][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.16-23.46.54:440][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.03.16-23.46.54:472][  1]LogRenderer: Reallocating scene render targets to support 1176x536 Format 10 NumSamples 1 (Frame:5).
+[2021.03.16-23.46.54:478][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Pixalone/test/LosingPatience/Content/' took 0.05s
+[2021.03.16-23.46.55:340][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.16-23.46.55:438][101]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.16-23.47.02:402][919]LogAssetRegistry: Asset discovery search completed in 12.9787 seconds
+[2021.03.16-23.47.02:405][919]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2021.03.16-23.47.02:405][919]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000090 seconds (updated 0 objects)
+[2021.03.16-23.47.07:737][532]LogAIModule: Creating AISystem for world gameMap
+[2021.03.16-23.47.07:744][532]LogAssetEditorManager: Opening Asset editor for World /Game/gamePlay/map/gameMap.gameMap
+[2021.03.16-23.47.07:765][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.03.16-23.47.07:766][532]Cmd: MAP LOAD FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/map/gameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.16-23.47.07:766][532]LightingResults: New page: Lighting Build
+[2021.03.16-23.47.07:766][532]LoadErrors: New page: Loading map: gameMap.umap
+[2021.03.16-23.47.07:767][532]LogWorld: UWorld::CleanupWorld for MM_map, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-23.47.07:767][532]MapCheck: New page: Map Check
+[2021.03.16-23.47.07:767][532]LightingResults: New page: Lighting Build
+[2021.03.16-23.47.07:786][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.03.16-23.47.07:848][532]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.16-23.47.07:873][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.03.16-23.47.07:897][532]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.16-23.47.07:898][532]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,227ms to complete.
+[2021.03.16-23.47.07:898][532]LogFileHelpers: Loading map 'gameMap' took 0.133
+[2021.03.16-23.47.09:104][670]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.16-23.47.09:118][670]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel' has LevelScriptBlueprint '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap' with GeneratedClass '/Game/gamePlay/map/gameMap.gameMap_C' with ClassGeneratedBy '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap'
+[2021.03.16-23.47.09:118][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.16-23.47.09:118][670]PIE: New page: PIE session: gameMap (17 mrt. 2021 01:47:09)
+[2021.03.16-23.47.09:119][670]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.16-23.47.09:120][670]LogPlayLevel: Creating play world package: /Game/gamePlay/map/UEDPIE_0_gameMap
+[2021.03.16-23.47.09:124][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004131s)
+[2021.03.16-23.47.09:125][670]LogAIModule: Creating AISystem for world gameMap
+[2021.03.16-23.47.09:125][670]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2021.03.16-23.47.09:125][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/gamePlay/map/gameMap.gameMap to /Game/gamePlay/map/UEDPIE_0_gameMap.gameMap (0.005375s)
+[2021.03.16-23.47.09:143][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.03.16-23.47.09:172][670]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.03.16-23.47.09:205][670]LogInit: FAudioDevice initialized.
+[2021.03.16-23.47.09:213][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-23.47.09:214][670]LogLoad: Game class is 'myGamemode_C'
+[2021.03.16-23.47.09:216][670]LogWorld: Bringing World /Game/gamePlay/map/UEDPIE_0_gameMap.gameMap up for play (max tick rate 0) at 2021.03.17-00.47.09
+[2021.03.16-23.47.09:217][670]LogWorld: Bringing up level for play took: 0.001421
+[2021.03.16-23.47.09:217][670]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.03.16-23.47.09:223][670]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.16-23.47.09:312][670]PIE: Play in editor start time for /Game/gamePlay/map/UEDPIE_0_gameMap -0,368
+[2021.03.16-23.47.09:312][670]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel' has LevelScriptBlueprint '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap' with GeneratedClass '/Game/gamePlay/map/gameMap.gameMap_C' with ClassGeneratedBy '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap'
+[2021.03.16-23.47.09:350][671]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.03.16-23.47.14:788][310]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2021.03.16-23.47.16:131][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.16-23.47.22:376][209]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel' has LevelScriptBlueprint '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap' with GeneratedClass '/Game/gamePlay/map/gameMap.gameMap_C' with ClassGeneratedBy '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap'
+[2021.03.16-23.47.22:376][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-23.47.22:376][209]LogWorld: BeginTearingDown for /Game/gamePlay/map/UEDPIE_0_gameMap
+[2021.03.16-23.47.22:391][209]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.16-23.47.22:396][209]LogWorld: UWorld::CleanupWorld for gameMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-23.47.22:401][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.16-23.47.22:401][209]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel' has LevelScriptBlueprint '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap' with GeneratedClass '/Game/gamePlay/map/gameMap.gameMap_C' with ClassGeneratedBy '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap'
+[2021.03.16-23.47.22:430][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.03.16-23.47.22:481][215]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.03.16-23.47.31:593][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.16-23.47.36:206][836]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/gamePlay/widget/pcWidget.pcWidget
+[2021.03.16-23.47.36:758][836]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2021.03.16-23.47.38:285][836]LogSlate: Took 0.014378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.16-23.48.11:709][519]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.03.16-23.48.12:272][519]LogSlate: Window 'Save Content' being destroyed
+[2021.03.16-23.48.12:308][519]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface674F08B1488970635109BC94413588CC.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.16-23.48.13:105][606]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.WB_MainInterface
+[2021.03.16-23.48.30:670][114]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.16-23.48.30:704][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.03.16-23.48.31:144][134]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface175F22E745811600AAD450B9485FEC96.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.16-23.48.36:454][614]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface295C013F4133A94FD33D90BE9208F2E0.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.16-23.55.56:205][379]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={1714E659-481E-38F7-2AC2-E38A2B9186C8}
+[2021.03.17-00.19.28:092][718]LogSlate: Window 'pcWidget' being destroyed
+[2021.03.17-00.19.28:098][718]LogSlate: Window 'pcWidget' being destroyed
+[2021.03.17-00.19.28:160][718]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-00.19.28:184][718]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-00.19.36:622][590]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.19.36:672][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.03.17-00.19.37:016][615]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface37CD2F394A8C235892A66886980C9B89.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.19.55:217][601]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.19.55:260][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.03.17-00.19.55:608][629]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface27EA6AB3462AD7973AE0338853FD6C1B.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.19.59:587][ 43]LogSlate: Took 0.039055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.17-00.20.30:741][227]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.20.30:769][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.03.17-00.20.31:070][249]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface2DF91241471A3A8919422E9555536F26.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.20.43:265][455]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.17-00.20.53:678][472]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.17-00.20.57:106][808]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.20.57:131][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.03.17-00.20.57:629][848]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface3438D0904D57EC34412D108A526E763E.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.21.33:226][455]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.21.33:255][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.03.17-00.21.33:681][488]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface65CFA64E4E64DF946D55348E71F203B6.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.23.22:629][607]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.23.22:657][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.03.17-00.23.23:014][640]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface6AC69AC149B38289E213CF9AE1AF096B.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.23.31:267][469]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface20AA4C904AEF9CACD6F15B9139705499.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.23.56:899][173]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.23.56:930][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.03.17-00.23.57:266][197]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterfaceE9A153684E5AE51687A6CEB9403FDA24.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.24.06:106][ 69]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.24.06:138][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.03.17-00.24.06:611][107]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface086CED1642BC6FECF0AA5EA0688BD8FB.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.24.30:784][367]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.17-00.24.40:358][315]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.17-00.24.55:331][739]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.17-00.24.59:487][125]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.17-00.25.03:501][476]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.17-00.25.04:668][588]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.25.04:700][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.03.17-00.25.05:125][618]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface331CA6C04484DDF9CFB02CAD4E0F5BAF.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.25.07:573][866]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterfaceC7D720B149762DAD55EC1798010B9297.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.25.08:421][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.03.17-00.25.14:660][669]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface6EF0FDEB4192B1BB76E900874C97E88B.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.25.22:305][ 12]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface6B5BA222408CCF53004BD785B69F6A7D.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.25.32:995][ 89]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.25.33:024][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.03.17-00.25.33:345][111]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface6FC22B454578F92D3B92C4B0BF2576FB.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.25.35:485][306]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface28B4E6794C9C2A70E8CAD79E37608D8A.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.25.43:823][126]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.25.43:852][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.03.17-00.25.44:239][154]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface5948FF0D4E12AA5E3916DB8B2FFC20AF.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.25.56:112][357]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.25.56:140][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.03.17-00.25.56:601][394]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface935DC6104DBE98A7DB7F5A808E8D87A4.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.25.59:829][712]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterfaceA228FDBD4D597BA9ACC2C593C7AFCA63.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.26.42:988][915]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.26.43:023][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.03.17-00.26.43:471][948]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface5B46BEC54E0EFAD837C2B58F76A8732E.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.27.08:143][296]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.27.08:174][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.03.17-00.27.08:547][320]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterfaceD0A134E1429EAA5122FB169721F8FC04.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.27.18:470][220]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.17-00.27.23:186][625]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.17-00.27.31:349][376]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.27.31:380][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.03.17-00.27.31:733][398]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface61E4948D42873F20823177905C514934.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.28.23:334][406]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.17-00.28.26:968][736]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.28.26:999][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.03.17-00.28.27:429][766]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface0687E7BC4C5FBD698EF8E9BFFED1874A.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.28.32:444][315]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterfaceB294F9664DDC2F1F75AD4CA030E3555B.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.28.33:193][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.03.17-00.28.58:125][825]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.28.58:159][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.03.17-00.28.58:507][848]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface761A2B104F8E4B97C922E9B9AEE732BF.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.29.05:353][578]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface11530F6348C46563CBF8DDAD53746800.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.29.06:802][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.03.17-00.29.39:772][926]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.29.39:806][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.03.17-00.29.40:145][948]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface535125A142858AA3DF741FBF21EAC7B5.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.30.53:696][992]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.17-00.31.01:488][719]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.17-00.31.19:731][562]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.31.19:767][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.03.17-00.31.20:101][591]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface413C7EB24A24F5A73337B8B975F8C7AC.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.31.52:029][616]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface1F6866634DD2A398B6B2399B7A205F5D.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.31.52:905][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.03.17-00.33.06:810][140]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface2E69E8A14DAF330DAA0019A01D3CA466.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.33.09:916][378]LogEditorViewport: Clicking on Actor (LMB): computer_C (computer)
+[2021.03.17-00.33.10:194][408]LogEditorViewport: Clicking on Actor (context menu): computer_C (computer)
+[2021.03.17-00.33.10:306][408]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.03.17-00.33.10:985][481]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.03.17-00.33.10:993][481]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/gamePlay/actors/computer.computer
+[2021.03.17-00.33.13:302][614]LogSlate: Took 0.076378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.17-00.33.38:595][284]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/gamePlay/actors/BP_ComputerInterface.BP_ComputerInterface
+[2021.03.17-00.33.52:022][794]LogSlate: Took 0.024708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.03.17-00.33.56:126][264]BlueprintLog: New page: Compile BP_ComputerInterface
+[2021.03.17-00.33.56:159][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.03.17-00.33.56:430][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/BP_ComputerInterface" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/BP_ComputerInterface.uasset" SILENT=true
+[2021.03.17-00.33.56:438][292]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/BP_ComputerInterfaceD802351A4CA84AFBBD217C828C844A1E.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/BP_ComputerInterface.uasset'
+[2021.03.17-00.35.10:969][708]LogEditorTransaction: Undo Move Node
+[2021.03.17-00.35.19:749][684]LogEditorTransaction: Undo Move Node
+[2021.03.17-00.35.25:349][307]BlueprintLog: New page: Compile computer
+[2021.03.17-00.35.25:531][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.03.17-00.35.25:682][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/computer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset" SILENT=true
+[2021.03.17-00.35.25:811][314]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/computer11A054DB4A774297582AEFB44B24986F.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset'
+[2021.03.17-00.35.29:326][721]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.17-00.35.42:905][243]BlueprintLog: New page: Compile computer
+[2021.03.17-00.35.43:074][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.03.17-00.35.43:242][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/computer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset" SILENT=true
+[2021.03.17-00.35.43:299][255]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/computer08E2F642419CBF9B592F978662E9E14A.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset'
+[2021.03.17-00.36.14:172][780]BlueprintLog: New page: Compile computer
+[2021.03.17-00.36.14:342][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.03.17-00.36.14:697][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/computer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset" SILENT=true
+[2021.03.17-00.36.14:753][814]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/computer82C2FC3D4D989C116EA095A6A6EF384E.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset'
+[2021.03.17-00.36.17:916][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/computer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset" SILENT=true
+[2021.03.17-00.36.17:971][175]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/computer778375D5438DD4AFA406F5960DFBDF14.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset'
+[2021.03.17-00.36.18:331][215]BlueprintLog: New page: Compile computer
+[2021.03.17-00.36.18:500][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.03.17-00.36.27:197][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/computer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset" SILENT=true
+[2021.03.17-00.36.27:253][224]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/computer05728DEC4A611AB2516E5EB60B748C44.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset'
+[2021.03.17-00.36.37:629][239]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/gamePlay/characters/myPlayer.myPlayer
+[2021.03.17-00.37.24:556][  8]BlueprintLog: New page: Compile myPlayer
+[2021.03.17-00.37.24:734][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.03.17-00.37.24:983][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/characters/myPlayer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/characters/myPlayer.uasset" SILENT=true
+[2021.03.17-00.37.25:089][ 21]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/myPlayer24AF35974E4DAD2F3AAE6EB970FFEE8F.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/characters/myPlayer.uasset'
+[2021.03.17-00.37.31:705][572]BlueprintLog: New page: Compile myPlayer
+[2021.03.17-00.37.31:877][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.03.17-00.37.32:163][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/characters/myPlayer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/characters/myPlayer.uasset" SILENT=true
+[2021.03.17-00.37.32:235][589]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/myPlayer0699BA104C4BDB1FE7FDFC93220642C6.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/characters/myPlayer.uasset'
+[2021.03.17-00.37.37:694][196]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterfaceBF84BDC14E1A49B0226327BB40252037.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.37.38:033][231]BlueprintLog: New page: Compile WB_MainInterface
+[2021.03.17-00.37.38:076][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.03.17-00.37.39:087][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.03.17-00.37.39:099][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/map/gameMap" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/map/gameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.17-00.37.39:132][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.03.17-00.37.39:308][337]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/gameMapB2F24B3A416A0C5E27C4B1BAE577E4D4.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/map/gameMap.umap'
+[2021.03.17-00.37.39:344][337]LogFileHelpers: Saving map 'gameMap' took 0.246
+[2021.03.17-00.38.13:740][ 40]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterfaceE66E51F74D925131C939B3BE7A44B58A.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.38.14:660][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.03.17-00.38.20:236][629]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/WB_MainInterface918E23C144511460342501A84BB7D2EE.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/widget/Main_ComputerInterface/WB_MainInterface.uasset'
+[2021.03.17-00.38.22:275][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/BP_ComputerInterface" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/BP_ComputerInterface.uasset" SILENT=true
+[2021.03.17-00.38.22:314][853]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/BP_ComputerInterface7830D57648AD70168892CA854AE3CA1C.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/BP_ComputerInterface.uasset'
+[2021.03.17-00.38.22:632][887]BlueprintLog: New page: Compile BP_ComputerInterface
+[2021.03.17-00.38.22:662][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.03.17-00.38.23:806][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.03.17-00.38.23:821][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/map/gameMap" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/map/gameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.17-00.38.23:849][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.03.17-00.38.24:007][ 15]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/gameMap45F69DA24EE8EC82FB4BD0AC809B3D1A.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/map/gameMap.umap'
+[2021.03.17-00.38.24:040][ 15]LogFileHelpers: Saving map 'gameMap' took 0.220
+[2021.03.17-00.38.29:229][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/characters/myPlayer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/characters/myPlayer.uasset" SILENT=true
+[2021.03.17-00.38.29:305][477]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/myPlayer291B316843F2D82BEACC5B946C04F401.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/characters/myPlayer.uasset'
+[2021.03.17-00.38.31:972][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/BP_ComputerInterface" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/BP_ComputerInterface.uasset" SILENT=true
+[2021.03.17-00.38.32:001][769]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/BP_ComputerInterfaceEB84BC8F4B9DEA06F368B9844E98BACD.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/BP_ComputerInterface.uasset'
+[2021.03.17-00.38.42:037][642]LogSlate: Window 'computer' being destroyed
+[2021.03.17-00.39.16:535][483]BlueprintLog: New page: Compile computer
+[2021.03.17-00.39.16:712][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.03.17-00.39.16:826][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/computer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset" SILENT=true
+[2021.03.17-00.39.16:891][490]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/computer77A3B9BB4F1BE4F2EDE83AAE39CA2A85.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset'
+[2021.03.17-00.40.04:052][730]BlueprintLog: New page: Compile computer
+[2021.03.17-00.40.04:235][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.03.17-00.40.04:406][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/computer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset" SILENT=true
+[2021.03.17-00.40.04:476][743]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/computer7636813E4E57B052D35641874CD41635.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset'
+[2021.03.17-00.40.33:508][973]BlueprintLog: New page: Compile computer
+[2021.03.17-00.40.33:678][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.03.17-00.40.33:814][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/computer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset" SILENT=true
+[2021.03.17-00.40.33:887][982]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/computerAFBE685144B93C5E4745A4814864625A.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset'
+[2021.03.17-00.40.35:868][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/computer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset" SILENT=true
+[2021.03.17-00.40.35:923][199]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/computer6CA39CE24FBB7AD4D4725B86C5F7850C.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset'
+[2021.03.17-00.41.56:262][953]BlueprintLog: New page: Compile myPlayer
+[2021.03.17-00.41.56:435][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.03.17-00.41.56:668][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/characters/myPlayer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/characters/myPlayer.uasset" SILENT=true
+[2021.03.17-00.41.56:741][966]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/myPlayer777D85964F4624B9F67BCE8A9FA46124.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/characters/myPlayer.uasset'
+[2021.03.17-00.42.04:976][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/characters/myPlayer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/characters/myPlayer.uasset" SILENT=true
+[2021.03.17-00.42.05:055][640]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/myPlayerEFA788BD400C8DA402736DA055A64D8F.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/characters/myPlayer.uasset'
+[2021.03.17-00.42.05:247][654]BlueprintLog: New page: Compile myPlayer
+[2021.03.17-00.42.05:425][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.03.17-00.42.18:839][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/computer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset" SILENT=true
+[2021.03.17-00.42.18:910][ 85]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/computer009567AA4211195A5D7259BDE8A8C32A.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset'
+[2021.03.17-00.42.20:584][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamePlay/actors/computer" FILE="../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset" SILENT=true
+[2021.03.17-00.42.20:641][258]LogSavePackage: Moving '../../../../../../Pixalone/test/LosingPatience/Saved/computer7B07DA034DD8B343628CD683B844D79C.tmp' to '../../../../../../Pixalone/test/LosingPatience/Content/gamePlay/actors/computer.uasset'
+[2021.03.17-00.42.21:312][323]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.03.17-00.42.21:343][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel' has LevelScriptBlueprint '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap' with GeneratedClass '/Game/gamePlay/map/gameMap.gameMap_C' with ClassGeneratedBy '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap'
+[2021.03.17-00.42.21:343][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.17-00.42.21:343][323]PIE: New page: PIE session: gameMap (17 mrt. 2021 02:42:21)
+[2021.03.17-00.42.21:344][323]LogPlayLevel: Creating play world package: /Game/gamePlay/map/UEDPIE_0_gameMap
+[2021.03.17-00.42.21:349][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005126s)
+[2021.03.17-00.42.21:350][323]LogAIModule: Creating AISystem for world gameMap
+[2021.03.17-00.42.21:350][323]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2021.03.17-00.42.21:350][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/gamePlay/map/gameMap.gameMap to /Game/gamePlay/map/UEDPIE_0_gameMap.gameMap (0.006611s)
+[2021.03.17-00.42.21:385][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.03.17-00.42.21:418][323]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.03.17-00.42.21:452][323]LogInit: FAudioDevice initialized.
+[2021.03.17-00.42.21:460][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-00.42.21:460][323]LogLoad: Game class is 'myGamemode_C'
+[2021.03.17-00.42.21:462][323]LogWorld: Bringing World /Game/gamePlay/map/UEDPIE_0_gameMap.gameMap up for play (max tick rate 0) at 2021.03.17-01.42.21
+[2021.03.17-00.42.21:462][323]LogWorld: Bringing up level for play took: 0.001152
+[2021.03.17-00.42.21:462][323]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.03.17-00.42.21:476][323]PIE: Play in editor start time for /Game/gamePlay/map/UEDPIE_0_gameMap -0,205
+[2021.03.17-00.42.21:476][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel' has LevelScriptBlueprint '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap' with GeneratedClass '/Game/gamePlay/map/gameMap.gameMap_C' with ClassGeneratedBy '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap'
+[2021.03.17-00.42.23:305][495]PIE: Warning: The widget 'WB_MainInterface_C' was already added to the screen.
+[2021.03.17-00.42.23:706][534]PIE: Warning: The widget 'WB_MainInterface_C' was already added to the screen.
+[2021.03.17-00.42.26:741][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel' has LevelScriptBlueprint '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap' with GeneratedClass '/Game/gamePlay/map/gameMap.gameMap_C' with ClassGeneratedBy '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap'
+[2021.03.17-00.42.26:742][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-00.42.26:742][817]LogWorld: BeginTearingDown for /Game/gamePlay/map/UEDPIE_0_gameMap
+[2021.03.17-00.42.26:756][817]LogSlate: Window 'LosingPatience Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.03.17-00.42.26:761][817]LogWorld: UWorld::CleanupWorld for gameMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-00.42.26:776][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.17-00.42.26:777][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel' has LevelScriptBlueprint '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap' with GeneratedClass '/Game/gamePlay/map/gameMap.gameMap_C' with ClassGeneratedBy '/Game/gamePlay/map/gameMap.gameMap:PersistentLevel.gameMap'
+[2021.03.17-00.42.26:821][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.03.17-00.42.26:889][818]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.03.17-00.42.28:220][950]LogSlate: Window 'Message Log' being destroyed
+[2021.03.17-00.42.28:227][950]LogSlate: Window 'Message Log' being destroyed
+[2021.03.17-00.42.30:466][191]LogUObjectBase: Warning: Object is not registered
+[2021.03.17-00.42.30:491][191]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.17-00.42.32:273][191]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.782 s
+[2021.03.17-00.42.32:273][191]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.17-00.42.32:273][191]LogOutputDevice: Error: 
+[2021.03.17-00.42.32:273][191]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2021.03.17-00.42.32:273][191]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2021.03.17-00.42.32:273][191]LogOutputDevice: Error: Stack: 
+[2021.03.17-00.42.32:273][191]LogOutputDevice: Error: [Callstack] 0x00007ffb659c5279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.17-00.42.32:273][191]LogOutputDevice: Error: [Callstack] 0x00007ffb651e7fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.17-00.42.32:273][191]LogOutputDevice: Error: [Callstack] 0x00007ffb651f622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.17-00.42.32:273][191]LogOutputDevice: Error: [Callstack] 0x00007ffb63c16c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffb625e4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffb6259e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffb7075d644 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffb7094c533 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffb707a922b UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffb70785738 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffb70779a1e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffba9e84c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffba9e726df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffba9e87340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffba9e6edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffbc57f5c1d USER32.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffbc57f5612 USER32.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffba9e888e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ff6410d6980 UE4Editor.exe!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ff6410ea91c UE4Editor.exe!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ff6410ea9fa UE4Editor.exe!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ff6410fb92c UE4Editor.exe!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ff6410fe60e UE4Editor.exe!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffbc6917c24 KERNEL32.DLL!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: [Callstack] 0x00007ffbc6fad721 ntdll.dll!UnknownFunction []
+[2021.03.17-00.42.32:274][191]LogOutputDevice: Error: 
+[2021.03.17-00.42.32:309][191]LogStats:                SubmitErrorReport -  0.000 s
